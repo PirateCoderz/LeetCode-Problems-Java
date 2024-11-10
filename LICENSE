@@ -1,59 +1,74 @@
-# Eclipse Public License - v 2.0
+Eclipse Public License - v2.0
 
-THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION, OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+The accompanying program is provided under the terms of this Eclipse Public License ("Agreement"). Any use, reproduction, or distribution of the program constitutes the recipient's acceptance of this agreement.
 
 **Ownership**  
 The following contributors are recognized as owners and primary maintainers of this repository:
 
-- [Pirate Coderz] (Owner)
-- Competitive Programmer
+- Pirate Coderz (Owner)
+- Taha Ijaz
 
 Any contributions made to this repository are considered property of the above-mentioned owners under the terms outlined below.
 
-1. **DEFINITIONS**
+1. Definitions
 
-   - "Contribution" means:
-     - a) in the case of the initial Contributor, the initial content Distributed under this Agreement, and
-     - b) in the case of each subsequent Contributor:
-       - i) changes to the Program, and
-       - ii) additions to the Program;
-     where such changes and/or additions to the Program originate from and are Distributed by that particular Contributor. A Contribution "originates" from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf. Contributions do not include changes or additions to the Program that are not Modified Works.
+- Contribution 
+  a) For the initial Contributor, the original content distributed under this Agreement.  
+  b) For each subsequent Contributor:  
+     i) Changes made to the Program  
+     ii) Additions to the Program, originating from and distributed by that particular Contributor. Contributions are not modifications or additional works that merely link or subclass the Program.
 
-   - "Contributor" means any person or entity that Distributes the Program.
+- Contributor  
+  Any person or entity that distributes the Program.
 
-   - "Licensed Patents" mean patent claims licensable by a Contributor which are necessarily infringed by the use or sale of its Contribution alone or when combined with the Program.
+- Licensed Patents
+  Patent claims licensable by a Contributor that are necessarily infringed by using or selling the Contribution alone or combined with the Program.
 
-   - "Program" means the Contributions Distributed in accordance with this Agreement.
+- Program  
+  The contributions distributed in accordance with this Agreement.
 
-   - "Recipient" means anyone who receives the Program under this Agreement or any Secondary License (as applicable), including Contributors.
+- Recipient  
+  Anyone who receives the Program under this Agreement or any Secondary License (if applicable), including Contributors.
 
-   - "Derivative Works" shall mean any work, whether in Source Code or other form, that is based on (or derived from) the Program and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
+- Derivative Works
+  Any work, whether in source code or other form, based on the Program, where modifications make it an original work of authorship.
 
-   - "Modified Works" shall mean any work in Source Code or other form that results from an addition to, deletion from, or modification of the contents of the Program, including, for purposes of clarity, any new file in Source Code form that contains any contents of the Program. Modified Works shall not include works that contain only declarations, interfaces, types, classes, structures, or files of the Program solely in each case to link to, bind by name, or subclass the Program or Modified Works thereof.
+- Modified Works
+  Any work resulting from an addition, deletion, or modification to the Program, including new files containing any contents of the Program. Modified Works exclude works containing only declarations, interfaces, or structures of the Program for the purpose of linking or subclassing.
 
-   - "Distribute" means the acts of a) distributing or b) making available in any manner that enables the transfer of a copy.
+- Distribute
+  The acts of (a) distributing or (b) making available in a manner that enables the transfer of a copy.
 
-   - "Source Code" means the form of a Program preferred for making modifications, including but not limited to software source code, documentation source, and configuration files.
+- Source Code
+  The form of a Program preferred for making modifications, including software source code, documentation source, and configuration files.
 
-   - "Secondary License" means either the GNU General Public License, Version 2.0, or any later versions of that license, including any exceptions or additional permissions as identified by the initial Contributor.
+- Secondary License 
+  Either the GNU General Public License, Version 2.0, or any later version, including any additional permissions noted by the initial Contributor.
 
-2. **GRANT OF RIGHTS**
+2. Grant of Rights
 
-   - a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, Distribute and sublicense the Contribution of such Contributor, if any, and such Derivative Works.
-   - b) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import, and otherwise transfer the Contribution of such Contributor, if any, in Source Code or other form. This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents. The patent license shall not apply to any other combinations that include the Contribution. No hardware per se is licensed hereunder.
-   - c) Recipient understands that although each Contributor grants the licenses to its Contributions set forth herein, no assurances are provided by any Contributor that the Program does not infringe the patent or other intellectual property rights of any other entity.
-   - d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, if any, to grant the copyright license set forth in this Agreement.
+a) Each Contributor grants a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, display, perform, distribute, and sublicense their Contribution, including derivative works.
 
-3. **REQUIREMENTS**
+b) Each Contributor grants a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, import, and transfer their Contribution when combined with the Program. The license does not apply to any other combinations or to hardware.
 
-   - 3.1 If a Contributor Distributes the Program in any form, then:
-     - a) the Program must also be made available as Source Code, in accordance with section 3.2, and the Contributor must accompany the Program with a statement that the Source Code for the Program is available under this Agreement and informs Recipients how to obtain it in a reasonable manner on or through a medium customarily used for software exchange.
-     - b) The Contributor may Distribute the Program under a license different than this Agreement, provided that such license:
-       - i) effectively disclaims on behalf of all other Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
-       - ii) effectively excludes on behalf of all other Contributors all liability for damages, including direct, indirect, special, incidental, and consequential damages, such as lost profits;
-       - iii) does not attempt to limit or alter the recipients' rights in the Source Code under section 3.2;
-       - iv) requires any subsequent distribution of the Program by any party to be under a license that satisfies the requirements of this section 3.
+c) Contributors make no assurances that the Program does not infringe the patents or other intellectual property rights of any other entity.
 
-   - 3.2 When the Program is Distributed as Source Code:
-     - a) it must be made available under this Agreement, or if the Program (i) is combined with other material in a separate file or files made available under a Secondary License, and (ii) the initial Contributor attached to the Source Code the notice described in Exhibit A of this Agreement, then the Program may be made available under the terms of such Secondary Licenses.
-     - b) a copy of this Agreement must be included with each copy of the Program.
+d) Each Contributor represents that, to their knowledge, they hold sufficient copyright rights in their Contribution to grant the copyright license as specified.
+
+3. Requirements
+
+- 3.1 Distribution in Any Form  
+  a) The Program must also be available as source code, and Contributors must provide information on how to access the source code.
+
+  b) The Program may be distributed under a different license if it:  
+     i) Disclaims all warranties on behalf of all other Contributors  
+     ii) Excludes liability for damages on behalf of all other Contributors  
+     iii) Does not limit or alter recipient rights in the source code  
+     iv) Requires subsequent distribution to meet these conditions.
+
+- 3.2 Distribution of Source Code  
+  a) Source code must be distributed under this Agreement or a Secondary License if the initial Contributor specifies such a license in Exhibit A.  
+  b) A copy of this Agreement must be included with each copy of the Program.
+
+Disclaimer
+The Program is provided "AS IS," without warranties or conditions of any kind.
