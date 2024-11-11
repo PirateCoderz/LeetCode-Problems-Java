@@ -10,6 +10,37 @@ Each solution is organized by problem difficulty and follows the LeetCode proble
 
 - **Medium** and **Hard**: As I progress, these sections will be added, covering advanced topics like dynamic programming, backtracking, graph algorithms, and more. Solutions in these folders will be explained in detail to help solidify understanding.
 
+
+# LeetCode Solution Tracker
+
+<details>
+  <summary><h1>String</h1></summary>
+
+| **S#** | **Question#** |                             **Difficulty**                               |                                         **Questions**                                                                                          |                                                                 **Solutions**                                   |
+| :----: | :-----------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------:  | :----------------------------------------------------------------------------------------------------:          |
+| **01** |      771      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                          | [Jewels and Stones](https://leetcode.com/submissions/detail/1258744687/)                                        |
+| **02** |      520      |<img src='https://img.shields.io/badge/Medium-darkorange' alt='Medium'/>  | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                                | [Detect Capital](https://leetcode.com/submissions/detail/1258719995/)                                           |
+
+<!-- <img src='https://img.shields.io/badge/Hard-darkred' alt='Hard'/> -->
+
+</details>
+
+
+<details>
+  <summary><h1>Easy Problems</h1></summary>
+
+| **S#** | **Question#** |                             **Difficulty**                               |                                         **Questions**                                                                                          |                                                                 **Solutions**                                   |
+| :----: | :-----------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------:  | :----------------------------------------------------------------------------------------------------:          |
+| **01** |      771      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                          | [Jewels and Stones](https://leetcode.com/submissions/detail/1258744687/)                                        |
+| **02** |      520      | <img src='https://img.shields.io/badge/Easy-darkcyan' alt='Easy'/>       | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                                | [Detect Capital](https://leetcode.com/submissions/detail/1258719995/)                                           |
+
+<!-- <img src='https://img.shields.io/badge/Hard-darkred' alt='Hard'/> -->
+
+</details>
+
+
+
+
 ## 📁 Folder Structure
 
 Each problem solution is saved in its respective folder, named after the problem title with its difficulty level in the folder name. For example:
